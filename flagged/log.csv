@@ -1,0 +1,4 @@
+Upload a photo of apples or bananas,Confidence threshold,Detections,Inspection result,flag,username,timestamp
+flagged/Upload a photo of apples or bananas/0b51f9003b8fbb6d13f1/my_fruit.jpg,0.5,flagged/Detections/fb3e5ca5e8887572f542/image.webp,"PASS: all fruit fresh
+
+fresh banana: 1",,,2026-10-01 19:15:14.329150

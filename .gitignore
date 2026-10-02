@@ -1,0 +1,7 @@
+venv/
+dataset/
+runs/
+*.cache
+yolov8n.pt
+.DS_Store
+__pycache__/
